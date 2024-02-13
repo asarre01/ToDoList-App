@@ -1,0 +1,5 @@
+# Ignorer des dossiers dans le dossier BackEnd
+BackEnd/node_modules/
+# Ignorer les dossiers node_modules dans le dossier FrontEnd
+FrontEnd/node_modules/
+
